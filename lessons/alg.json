@@ -1,4 +1,7 @@
 {
     "name": "Алгебра",
-    "class": "303"
+    "class": "303",
+    "hint": {
+        "link": "https://gdz.ru/class-10/algebra/alimov-15/${task}-nom/"
+    }
 }
