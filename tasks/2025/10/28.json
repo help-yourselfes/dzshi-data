@@ -1,0 +1,25 @@
+[
+    {
+        "lesson": "lit",
+        "text": "Тестовое значение текста"
+    },
+    {
+        "lesson": "rus",
+        "media": [
+            {
+                "type": "photo",
+                "link": "...",
+                "preview": {
+                    "type": "text",
+                    "text": "Название фото"
+                }
+            }
+        ]
+    },
+    {
+        "lesson": "geo",
+        "hint": [
+            "401", "402", "403"
+        ]
+    }
+]
